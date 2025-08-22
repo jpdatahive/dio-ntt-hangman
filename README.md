@@ -13,19 +13,25 @@ Este é um pequeno projeto de um jogo da forca simples, desenvolvido em Java.
 
 Este projeto utiliza Gradle para gerenciamento de dependências e compilação.
 
-1.  **Navegue até o diretório raiz do projeto:**
+1. **Clone este projeto com:**
+    
+    ```bash
+    git clone git@github.com:jpdatahive/dio-ntt-hangman.git
+   ```
+
+2. **Navegue até o diretório raiz do projeto:**
 
     ```bash
     cd \dio-ntt-hangman
     ```
 
-2.  **Compile o projeto usando Gradle:**
+3. **Compile o projeto usando Gradle:**
 
     ```bash
     ./gradlew build
     ```
 
-3.  **Execute o jogo:**
+4. **Execute o jogo:**
 
     ```bash
     java -jar build/libs/dio-ntt-hangman.jar
