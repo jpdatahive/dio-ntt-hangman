@@ -16,7 +16,7 @@ Este projeto utiliza Gradle para gerenciamento de dependências e compilação.
 1.  **Navegue até o diretório raiz do projeto:**
 
     ```bash
-    cd C:\dev\dio-ntt-hangman
+    cd \dio-ntt-hangman
     ```
 
 2.  **Compile o projeto usando Gradle:**
